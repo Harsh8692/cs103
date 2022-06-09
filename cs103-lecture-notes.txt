@@ -8,3 +8,23 @@ git add <file name> : To add a untracked file to the list of files that need to 
 
 git commit -m "<comment>" : To commit the added files.
 
+
+Learnings of 13May, 2022 CS class:
+
+We learned:
+> some functions of Visual Studio Code (or VS code).
+> VS code is a multifunctioning editor.
+> it also previews some files along with editing them.
+> about its extensions.
+> basics of Markdown, a web scripting language.
+> it is used to create web pages.
+> files corresponding to Markdown ends with ".md" extension.
+> In Markdown:
+  > # <Title Name> : to give title of web page.
+  > ## <Section Name> : to make various sections in a web page like documents.
+  > ### <Subsection Name> : to make a subsection under a Section.
+  > Text can be added in each sections and subsections.
+
+> VS code also gives the preview of ".md" files.
+
+ 
