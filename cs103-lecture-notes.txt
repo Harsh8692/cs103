@@ -1,0 +1,10 @@
+git --version : It prints the version of git installed in our environment.
+
+git clone <ssh address of the repository> :To clone a repository from git server to our local machine.
+
+git status : To check the status of the current branch of the repository .
+
+git add <file name> : To add a untracked file to the list of files that need to be committed.
+
+git commit -m "<comment>" : To commit the added files.
+
